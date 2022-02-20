@@ -1,6 +1,7 @@
 # Docker with Node JS and NestJS
 
 You don't need to install Node JS and Nest JS on your machine. Just clone this repo, and you can create nestjs project inside the docker container.
+This docker using `Node version v17.5.0` and `npm version v8.4.1`.
 
 # Installation
 
