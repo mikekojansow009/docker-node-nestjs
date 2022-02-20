@@ -1,0 +1,8 @@
+version: '3.7'
+services:
+    nodejs:
+        container_name: 'node-js'
+        build:
+            context: .
+        volumes:
+            - '.:/root'
